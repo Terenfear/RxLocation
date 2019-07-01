@@ -2,8 +2,8 @@ package com.patloew.rxlocation;
 
 import android.Manifest;
 import android.app.PendingIntent;
-import android.support.annotation.NonNull;
-import android.support.annotation.RequiresPermission;
+import androidx.annotation.NonNull;
+import androidx.annotation.RequiresPermission;
 
 import com.google.android.gms.common.api.Status;
 import com.google.android.gms.location.GeofencingRequest;

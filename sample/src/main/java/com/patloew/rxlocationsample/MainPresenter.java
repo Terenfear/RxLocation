@@ -39,7 +39,8 @@ public class MainPresenter {
 
         this.locationRequest = LocationRequest.create()
                 .setPriority(LocationRequest.PRIORITY_HIGH_ACCURACY)
-                .setInterval(5000);
+                .setNumUpdates(1);
+//                .setInterval(5000);
     }
 
     public void attachView(MainView view) {

@@ -1,8 +1,8 @@
 package com.patloew.rxlocation;
 
 import android.app.PendingIntent;
-import android.support.annotation.NonNull;
-import android.support.annotation.RequiresPermission;
+import androidx.annotation.NonNull;
+import androidx.annotation.RequiresPermission;
 
 import com.google.android.gms.common.api.Status;
 

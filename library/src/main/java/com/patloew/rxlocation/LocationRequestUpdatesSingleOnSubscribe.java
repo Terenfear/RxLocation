@@ -1,7 +1,7 @@
 package com.patloew.rxlocation;
 
 import android.app.PendingIntent;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.Status;

@@ -1,7 +1,7 @@
 package com.patloew.rxlocation;
 
 import android.app.PendingIntent;
-import android.support.annotation.CallSuper;
+import androidx.annotation.CallSuper;
 
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
